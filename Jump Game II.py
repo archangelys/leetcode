@@ -32,12 +32,3 @@ class Solution:
             current = nextpos
 
         return -1
-
-
-
-
-
-
-if __name__ == '__main__':
-    solution = Solution()
-    solution.jump(['a','b','c'])
